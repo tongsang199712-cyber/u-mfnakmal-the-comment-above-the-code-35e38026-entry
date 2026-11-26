@@ -1,7 +1,8 @@
 # u-mfnakmal-the-comment-above-the-code-35e38026-entry
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026)
-[![Bounty](https://img.shields.io/badge/bounty-%242-green)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026)
+[![make.fun · u-mfnakmal-the-comment-above-the-code-35e38026](https://make.fun/badge/u-mfnakmal-the-comment-above-the-code-35e38026.svg)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-comment-above-the-code-35e38026)
+[![rank](https://make.fun/badge/u-mfnakmal-the-comment-above-the-code-35e38026/tongsang199712-cyber/u-mfnakmal-the-comment-above-the-code-35e38026-entry/rank.svg)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-comment-above-the-code-35e38026)
+[![reward](https://make.fun/badge/u-mfnakmal-the-comment-above-the-code-35e38026/tongsang199712-cyber/u-mfnakmal-the-comment-above-the-code-35e38026-entry/reward.svg)](https://make.fun/bounty/u-mfnakmal-the-comment-above-the-code-35e38026?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-comment-above-the-code-35e38026)
 
 A make.fun bounty entry for **The Comment Above the Code**: one funny, painfully honest line imagining the comment a developer left above fragile production code. A house judge compares lines head-to-head and the sharpest laugh takes the pool.
 
